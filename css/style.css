@@ -6,6 +6,12 @@ body {
   max-width: 1440px;
 }
 
+.carousel-image {
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+}
+
 .box-shadow {
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05),
     0 4px 8px 0 rgba(0, 0, 0, .05)
@@ -13,6 +19,10 @@ body {
 
 .background-color-1 {
   background-color: #FAF9F6;
+}
+
+.background-color-2 {
+  background-color: #DEDCD3;
 }
 
 .color-2 {
